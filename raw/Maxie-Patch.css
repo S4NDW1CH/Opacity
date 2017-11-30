@@ -1270,8 +1270,8 @@ button.btn.btn-settings:hover {
 
 /* Hotfix... */
 
-div[class*="channels-"], div[class*="container-"], div.titleWrapper-3Vi_wz.theme-dark > div {
-	background-color: rgba(0,0,0,.3) !important;
+div[class*="channels-"], div.titleWrapper-3Vi_wz.theme-dark > div {
+	background-color: rgba(0,0,0,.6) !important;
 }
 
 div.titleWrapper-3Vi_wz.theme-dark > div {
